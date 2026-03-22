@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android files
+local.properties
+*.apk
+*.aab
+*.dex
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+logs
+*.log
+
+# Environment variables
+.env
+
+# Testing files
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Build outputs
+app/build/
+build/

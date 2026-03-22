@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Love Coach</string>
+    <string name="title_main">Love Coach</string>
+    <string name="subtitle_main">让聊天更有趣，激发女生的恋爱欲望</string>
+    <string name="btn_upload_screenshot">上传截图</string>
+    <string name="btn_take_screenshot">截图分析</string>
+    <string name="btn_analyze">分析聊天</string>
+    <string name="btn_copy_reply">复制回复</string>
+    <string name="btn_new_chat">新聊天</string>
+    <string name="btn_settings">设置</string>
+    <string name="hint_enter_api_key">输入大模型API密钥</string>
+    <string name="hint_enter_model_url">输入模型API地址</string>
+    <string name="label_chat_history">聊天历史</string>
+    <string name="label_analysis_result">分析结果</string>
+    <string name="label_suggested_reply">建议回复</string>
+    <string name="label_emotion_analysis">情绪分析</string>
+    <string name="label_context_analysis">上下文分析</string>
+    <string name="msg_analyzing">正在分析...</string>
+    <string name="msg_analysis_complete">分析完成</string>
+    <string name="msg_no_chat_selected">请选择一个聊天</string>
+    <string name="msg_no_screenshot">请上传或拍摄截图</string>
+    <string name="msg_api_config_error">API配置错误</string>
+    <string name="msg_analysis_error">分析失败，请重试</string>
+    <string name="permission_camera_denied">需要相机权限</string>
+    <string name="permission_storage_denied">需要存储权限</string>
+    <string name="dialog_title_chat_name">输入聊天名称</string>
+    <string name="dialog_hint_chat_name">例如：小美</string>
+    <string name="dialog_btn_ok">确定</string>
+    <string name="dialog_btn_cancel">取消</string>
+</resources>
